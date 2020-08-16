@@ -1,6 +1,9 @@
 # Scene-Recognition-with-bag-of-words
 
 Scene recognition using knn and SVM with bag-of-words representation.
+|![Bow+knn](/result/bow+knn.png) | ![Bow+SVM](/result/svm.png) |
+|:---:|:---:|
+|  k-nearest neighbors classifier  | SVM classifier |
 
 ## Dependencies
 * Numpy
