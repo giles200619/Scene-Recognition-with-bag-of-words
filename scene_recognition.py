@@ -17,7 +17,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix
 from sklearn import preprocessing
-from scipy import stats
+#from scipy import stats
 from pathlib import Path, PureWindowsPath
 
 
